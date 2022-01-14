@@ -5,7 +5,7 @@ Authentication backend endpoints
 
 Tech Stacks: Node.js Typescript Mysql Typeorm Jwt Express
 
-End points:
+End points:  
 1- POST Register : http://localhost:8080/api/register  
 2- POST Login : http://localhost:8080/api/login  
 3- GET  Authenticated User : http://localhost:8080/api/user  
